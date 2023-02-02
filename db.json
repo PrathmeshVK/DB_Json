@@ -1,0 +1,44 @@
+{
+    "Users": [
+      {
+        "name": "Pratham",
+        "age": "24",
+        "gender": "male",
+        "country": "India",
+        "profession": "student",
+        "id": 1
+      },
+      {
+        "name": "Prathmesh",
+        "age": "24",
+        "gender": "male",
+        "country": "India",
+        "profession": "student",
+        "id": 2
+      },
+      {
+        "name": "Vinay",
+        "age": "25",
+        "gender": "male",
+        "country": "India",
+        "profession": "employed",
+        "id": 3
+      },
+      {
+        "name": "Tom",
+        "age": "26",
+        "gender": "male",
+        "country": "USA",
+        "profession": "employed",
+        "id": 4
+      },
+      {
+        "name": "Joy",
+        "age": "30",
+        "gender": "female",
+        "country": "USA",
+        "profession": "employed",
+        "id": 5
+      }
+    ]
+  }
