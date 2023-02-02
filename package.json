@@ -1,0 +1,25 @@
+{
+  "name": "db_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrathmeshVK/DB_Json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrathmeshVK/DB_Json/issues"
+  },
+  "homepage": "https://github.com/PrathmeshVK/DB_Json#readme",
+  "dependencies": {
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
